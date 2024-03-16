@@ -1,6 +1,6 @@
 public class Main
 {
-  //Armstrong number is a number that is equal to the sum of cubes of its digits. 
+  //Armstrong number is a number that is equal to the sum of cubes of its digits.
 	public static void main(String[] args) {
 	    int num=370;         //153=>1+125+27  // 370=>27+343+0
 	    int temp=num;
