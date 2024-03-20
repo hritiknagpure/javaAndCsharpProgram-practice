@@ -9,3 +9,10 @@ public class Main
 	    } 
 	}
 }
+                   //output
+                   *
+                   **
+                   ***
+                   ****
+                   *****
+               
