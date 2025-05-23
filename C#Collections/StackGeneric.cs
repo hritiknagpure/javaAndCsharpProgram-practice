@@ -5,7 +5,9 @@ Use .Push() to add, .Pop() to remove, and .Peek() to view the top.
 It's non-generic, so items are stored as object.
 
 Use casting when retrieving specific types (not type-safe).
+Stack implement: ICollection,IEnumerable
 
+ICloneable
   //code
 using System.Collections.Generic;
 using System;
