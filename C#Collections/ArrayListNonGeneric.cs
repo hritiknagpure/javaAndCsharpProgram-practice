@@ -1,5 +1,5 @@
 // List<T> is a class in C# that implements the IList<T> interface.
-  
+// ArrayList is a class in C# that implements the non-generic IList interface.
 using System.Collections;
 using System;
 class HelloWorld {
